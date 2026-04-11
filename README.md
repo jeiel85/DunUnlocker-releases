@@ -5,7 +5,7 @@
 OneUI 8.5 우회 패치가 적용된 1.3.1 버전에 관심이 있으시다면
 메일로 연락 부탁드립니다.
 
-주소: (thisisample@proton.me)[mailto:thisisample@proton.me]
+주소: [thisisample@proton.me](mailto:thisisample@proton.me)
 
 ## 요구 사항
 - OneUI 8.5 미만 기기 (갤럭시 한정)

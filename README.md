@@ -2,10 +2,7 @@
 삼성 갤럭시 기기를 비롯한 안드로이드 스마트폰에서 APN 타입에 dun을 정상적으로 추가하도록 도와주는 앱입니다.
 
 ## OneUI 8.5 업데이트 관련
-OneUI 8.5 우회 패치가 적용된 1.3.1 버전에 관심이 있으시다면
-메일로 연락 부탁드립니다.
-
-주소: [thisisample@proton.me](mailto:thisisample@proton.me)
+[이슈](https://github.com/naijun0403/DunUnlocker-releases/issues/6)참고 부탁드립니다.
 
 ## 요구 사항
 - OneUI 8.5 미만 기기 (갤럭시 한정)
